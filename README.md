@@ -42,4 +42,4 @@ Download directly from this github or our website
 ## Support
 - Discord: [Join our community](https://discord.gg/QNYVkG7gfB)
 
-![Dusun Harmoni Logo]([https://i.postimg.cc/tgHWRM1b/Banner.png])
+![Dusun Harmoni Logo](https://i.postimg.cc/tgHWRM1b/Banner.png)
