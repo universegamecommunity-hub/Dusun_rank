@@ -9,7 +9,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 - Java & Bedrock Support
 - Custom Rank Designs
 
-![Ranks Image](https://i.postimg.cc/0NMQF8k2/image.png)
+![Ranks Image](https://i.postimg.cc/fLPgPsLD/image.png)
 
 ## Available Ranks
 
