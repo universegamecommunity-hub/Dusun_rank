@@ -42,4 +42,4 @@ Download directly from this github or our website
 ## Support
 - Discord: [Join our community](https://discord.gg/QNYVkG7gfB)
 
-![Nautical Services Logo]([https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png](https://i.postimg.cc/tgHWRM1b/Banner.png)
+! [Nautical Services Logo]([https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png](https://i.postimg.cc/tgHWRM1b/Banner.png)
